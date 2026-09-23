@@ -1,0 +1,22 @@
+{
+  "name": "allmanager",
+  "owner": { "name": "AllManager", "url": "https://allmanager.fr" },
+  "metadata": {
+    "description": "Plugins officiels AllManager pour Claude",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "allmanager",
+      "source": "./",
+      "description": "Connecte Claude à AllManager (commandes, devis, SAV, planning, anomalies, rentabilité) en lecture seule, avec des commandes métier prêtes à l'emploi.",
+      "version": "0.1.0",
+      "author": { "name": "AllManager", "url": "https://allmanager.fr" },
+      "homepage": "https://allmanager.fr",
+      "repository": "https://github.com/gap-referencement/allmanager-claude-plugin",
+      "license": "MIT",
+      "keywords": ["allmanager", "erp", "menuiserie", "mcp"],
+      "category": "productivity"
+    }
+  ]
+}

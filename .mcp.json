@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "allmanager": {
+      "type": "http",
+      "url": "${ALLMANAGER_MCP_URL:-https://api.allmanager.fr/mcp}",
+      "oauth": {
+        "scopes": "allmanager:read offline_access"
+      }
+    }
+  }
+}

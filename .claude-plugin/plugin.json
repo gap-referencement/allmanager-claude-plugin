@@ -1,0 +1,11 @@
+{
+  "name": "allmanager",
+  "displayName": "AllManager",
+  "version": "0.1.0",
+  "description": "Connecte Claude à AllManager, l'ERP des menuisiers et poseurs : commandes, devis, SAV, planning, anomalies et rentabilité de votre espace, en lecture seule.",
+  "author": { "name": "AllManager", "url": "https://allmanager.fr" },
+  "homepage": "https://allmanager.fr",
+  "repository": "https://github.com/gap-referencement/allmanager-claude-plugin",
+  "license": "MIT",
+  "keywords": ["allmanager", "erp", "menuiserie", "mcp", "planning", "sav", "devis"]
+}
